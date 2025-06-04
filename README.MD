@@ -23,6 +23,8 @@ Class 2 has 48 samples.
 
 ### Visualization:
 
+<img width="863" alt="Image" src="https://github.com/user-attachments/assets/ca7f61a7-bfe9-4d70-8307-0b76942024a7" />
+<img width="863" alt="Image" src="https://github.com/user-attachments/assets/0f16c7ae-d726-4633-84e8-e28ff227a00e" />
 
 
 ### Comparision and Analysis: 
